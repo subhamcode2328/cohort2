@@ -1,0 +1,25 @@
+@font-face {
+    font-family: newfont;
+    src: url(./Urban\ Shadow\ Sans\ Serif.otf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    color: crimson;
+    text-align: center;
+    font-family: newfont;
+    text-decoration: underline white;
+    font-size: xx-large;
+}
+
+p{
+    color: green;
+}
